@@ -127,14 +127,14 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aVh-Xe-Nbe" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1120.5" y="1036"/>
+            <point key="canvasLocation" x="1120" y="1118"/>
         </scene>
         <!--Directorio-->
         <scene sceneID="7WT-aa-ARe">
             <objects>
                 <tableViewController id="CMM-uH-ltZ" customClass="ContactListTableViewController" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="BiW-gv-pCd">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
@@ -215,6 +215,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Directorio" id="0TI-gF-0Rv"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                     <connections>
                         <segue destination="UbC-ip-ZLz" kind="show" identifier="DetailsSegue" id="3bf-CM-gmn"/>
                     </connections>
@@ -232,10 +233,11 @@
                         <viewControllerLayoutGuide type="bottom" id="fHW-zr-hTv"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="XLR-sc-erp">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dRU-71-tmf" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -285,6 +287,7 @@
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="ccg-AY-YB0" sceneMemberID="viewController">
                     <toolbarItems/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="WEq-lW-3ub">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>

@@ -12,20 +12,24 @@
 	<dict>
 		<key>3382C44CBB3E222E9A3F178660749FFFA00CDFED</key>
 		<string>github.com:bolivarbryan/Cappacitate2015-Barranquilla.git</string>
+		<key>B641492405AC43F0DFCE527D01D2C7A128397268</key>
+		<string>github.com:hackvan/iOS_Cappacitate2015.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>parse-withTableview/ParseStarterProject/ParseStarterProject.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>3382C44CBB3E222E9A3F178660749FFFA00CDFED</key>
+		<string>../../../../../Cappacitate2015-Barranquilla</string>
+		<key>B641492405AC43F0DFCE527D01D2C7A128397268</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:bolivarbryan/Cappacitate2015-Barranquilla.git</string>
+	<string>github.com:hackvan/iOS_Cappacitate2015.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3382C44CBB3E222E9A3F178660749FFFA00CDFED</string>
+	<string>B641492405AC43F0DFCE527D01D2C7A128397268</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>3382C44CBB3E222E9A3F178660749FFFA00CDFED</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Cappacitate2015-Barranquilla</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B641492405AC43F0DFCE527D01D2C7A128397268</string>
+			<key>IDESourceControlWCCName</key>
+			<string>workspace</string>
 		</dict>
 	</array>
 </dict>
